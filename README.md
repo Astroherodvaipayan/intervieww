@@ -1,7 +1,6 @@
+# RV-AI Mock Interview App
 
-# Full Stack AI Mock Interview App
-
-**Welcome to the Full Stack AI Mock Interview App!**  
+**Welcome to the RV-AI Mock Interview App!**  
 This project is designed to help developers enhance their skills through AI-driven mock interviews, providing real-time feedback to simulate a realistic interview experience.
 
 ## Table of Contents
@@ -15,7 +14,7 @@ This project is designed to help developers enhance their skills through AI-driv
 - [License](#license)
 
 ## Overview
-The Full Stack AI Mock Interview App allows users to practice technical and behavioral interview questions in an interactive environment. The app generates custom questions based on user preferences and delivers instant feedback on answers to help users improve their interview skills.
+The RV-AI Mock Interview App allows users to practice technical and behavioral interview questions in an interactive environment. The app generates custom questions based on user preferences and delivers instant feedback on answers to help users improve their interview skills.
 
 ## Features
 - **AI-Driven Questions**: Get custom-tailored interview questions based on your profile and feedback.
@@ -38,12 +37,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/full-stack-ai-mock-interview-app.git
+   git clone https://github.com/yourusername/rv-ai-mock-interview-app.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd full-stack-ai-mock-interview-app
+   cd rv-ai-mock-interview-app
    ```
 
 3. Install the dependencies:
@@ -65,7 +64,7 @@ We welcome contributions! Please follow these steps to contribute:
 1. **Fork the repository**: Click the "Fork" button at the top right corner of this repository.
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/full-stack-ai-mock-interview-app.git
+   git clone https://github.com/yourusername/rv-ai-mock-interview-app.git
    ```
 3. **Create a new branch**:
    ```bash
@@ -86,5 +85,3 @@ For more details, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
