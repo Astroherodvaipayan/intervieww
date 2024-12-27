@@ -32,7 +32,7 @@ export default function HeroSection() {
               Your Personal AI Interview Coach
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-xl">
-              Double your chances of landing that job offer with our AI-powered interview prep
+              building the next gen agentic interview mentors using VED-AI powered with gemma models
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
