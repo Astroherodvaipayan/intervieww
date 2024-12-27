@@ -3,25 +3,16 @@
 **Welcome to the RV-AI Mock Interview App!**  
 This project is designed to help developers enhance their skills through AI-driven mock interviews, providing real-time feedback to simulate a realistic interview experience.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 The RV-AI Mock Interview App allows users to practice technical and behavioral interview questions in an interactive environment. The app generates custom questions based on user preferences and delivers instant feedback on answers to help users improve their interview skills.
 
 ## Features
-- **AI-Driven Questions**: Get custom-tailored interview questions based on your profile and feedback.
-- **User Authentication**: Secure login and signup using Clerk.
-- **Real-Time Feedback**: Answer interview questions and receive immediate feedback with the help of Gemini AI.
-- **Interactive UI**: A responsive, user-friendly interface built with React.
-- **Data Persistence**: User data and interview history managed through Drizzle ORM.
+- **Personalized AI-Generated Questions**: Receive interview questions tailored to your profile and preferences for a more targeted practice experience.
+- **Secure Authentication**: Ensure safe and seamless login and signup processes powered by Clerk.
+- **Instant Feedback**: Get real-time insights and suggestions on your answers using Gemini AI to improve your performance.
+- **Responsive Design**: Enjoy an intuitive and user-friendly interface built with React, adaptable to any device.
+- **Robust Data Management**: Safeguard and track user data and interview history with Drizzle ORM for a seamless experience.
+
 
 ## Technologies Used
 - **[Next.js](https://nextjs.org/)**: Framework for server-rendered React applications.
@@ -58,28 +49,6 @@ To get started with the project, follow these steps:
 
 2. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the app in action!
 
-## Contributing
-We welcome contributions! Please follow these steps to contribute:
-
-1. **Fork the repository**: Click the "Fork" button at the top right corner of this repository.
-2. **Clone your fork**:
-   ```bash
-   git clone https://github.com/yourusername/rv-ai-mock-interview-app.git
-   ```
-3. **Create a new branch**:
-   ```bash
-   git checkout -b your-feature-branch
-   ```
-4. **Make your changes**: Add features or fix bugs.
-5. **Commit your changes**:
-   ```bash
-   git commit -m "Describe your changes"
-   ```
-6. **Push your branch**:
-   ```bash
-   git push origin your-feature-branch
-   ```
-7. **Create a pull request**: Go to the original repository and open a pull request.
 
 For more details, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md).
 
