@@ -1,4 +1,4 @@
-# RV-AI Mock Interview App
+# RV-AI Agentic Interview mentor
 
 **Welcome to the RV-AI Mock Interview App!**  
 This project is designed to help developers enhance their skills through AI-driven mock interviews, providing real-time feedback to simulate a realistic interview experience.
