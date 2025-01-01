@@ -16,7 +16,7 @@ const Footer = () => {
         {/* Social Media Links */}
         <div className="flex space-x-4">
           <a
-            href="https://github.com/astroherodvaipayan"
+            href="https://github.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-indigo-500 transition-colors"
@@ -34,7 +34,7 @@ const Footer = () => {
             <Linkedin className="h-6 w-6" />
           </a>
           <a
-            href="https://x.com/KDvaipayan"
+            href="https://x.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-indigo-500 transition-colors"
